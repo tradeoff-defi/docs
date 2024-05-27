@@ -1,12 +1,12 @@
 # 🎲 Martingale Strategy
 
-## **Introduction**
+## 📖 **Introduction**
 
 The Martingale is a betting strategy that originated in 18th-century France and gained popularity there. The core idea of this strategy is to increase the bet amount after consecutive losses, to recover previous losses when a win eventually occurs.
 
-For more details, please refer to [Martingale (betting system)](https://en.wikipedia.org/wiki/Martingale\_\(betting\_system\)).
+For more details, please refer to 🔗 [Martingale (betting system)](https://en.wikipedia.org/wiki/Martingale\_\(betting\_system\)).
 
-## **📄Two Simple Examples**
+## **📄 Two Simple Examples**
 
 ### **🎲 Gambling Game**
 
@@ -23,9 +23,11 @@ This process continues until you win, and then you return to the initial bet amo
 
 The Martingale strategy is also widely applied in investment fields, such as with Tesla stocks.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em>Tesla Stock Price Chart from November 2022 to February 2023</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>Tesla Stock Price Chart from November 2022 to February 2023</em></p></figcaption></figure>
 
-During this period, executing the Martingale strategy would involve increasing investment after losses at the marked points.
+During this period, executing the Martingale strategy would involve increasing investment after losses at the marked points👇:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **🚉 Conditions for Executing the Martingale Strategy**
 
