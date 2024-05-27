@@ -1,0 +1,2 @@
+# 🎲 Create/Join Martingale Strategy
+
