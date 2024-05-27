@@ -4,4 +4,4 @@
 * [📃 Infromation](infromation/README.md)
   * [🎲 Martingale Strategy](infromation/martingale-strategy.md)
   * [💹 How TradeOFF Works](infromation/how-tradeoff-works.md)
-  * [🔛 age 2](infromation/age-2.md)
+  * [🔋 $TRO Description and Tokenomic（unfinished）](infromation/usdtro-description-and-tokenomic-unfinished.md)
