@@ -1,44 +1,43 @@
-# 👋 Welcome to A Product
+---
+description: Collective liquidity Futures Investment DeFi protocol
+---
+
+# 👋 Welcome to TradeOFF
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
-## Overview
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Here are a couple of example overviews from products with really great docs:
+## 📖Overview
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+TradeOFF is a decentralized finance (DeFi) protocol based on smart contracts, designed to provide cryptocurrency investors with optimized investment strategies and risk reduction solutions for sustainable profitability. The protocol adopts the renowned **"Martingale"** strategy from financial markets and implements it through an innovative market integration mechanism to continuously reduce the fund pool's capital costs.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+## 💻Operating Mechanism
 
-## Quick links
+TradeOFF allows users to initiate their own fund pools to hedge market risks. When the price reaches a preset threshold, other investors can join the fund pool through smart contracts, expanding investment positions and averaging costs without any party incurring additional fees. Through this disintermediated fund aggregation method, TradeOFF offers users an effective investment channel to manage risks and optimize returns.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## 🌟Key Advantages
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+* **Open Profit Protocol:** TradeOFF provides individual investors with flexible and autonomous investment tools, allowing users to create and manage fund pools themselves.
+* **Smart Contract Execution:** All investment strategies are automatically executed through immutable smart contracts, ensuring transparent and trustworthy processes.
+* **Isolation from External Risks:** The core logic of the protocol operates independently, eliminating external influences except for price synchronization (oracle), thus removing liquidation and other derivative risks.
+* **No Additional Fees:** Investors do not need to pay extra fees or management charges, and all profits are fully owned by the individual.
+* **Proactive Risk Control:** TradeOFF offers users dual investment options to proactively manage risks and pursue high returns.
+* **Community-Driven:** The platform encourages investors to share experiences and collaborate, collectively addressing market fluctuations.
+
+## 🌍Future Outlook
+
+TradeOFF is committed to deploying support on more mainstream public chains to provide quality services to investors from different communities. Plans include enhancing contract audits and security tests to ensure the protocol's healthy operation. In summary, TradeOFF will adhere to the principles of fairness, transparency, and decentralization to promote the thriving development of the DeFi ecosystem.
+
+## ❕Risk Disclaimer
+
+TradeOFF may have smart contract risks (e.g., contract code bugs), but will minimize these risks through open-source code and security audits. Investors should also be aware of blockchain systemic risks and personal operational risks.
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+We've put together some helpful guides for you to get set up with our product quickly and easily.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
