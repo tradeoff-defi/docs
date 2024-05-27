@@ -3,5 +3,5 @@
 * [👋 Welcome to TradeOFF](README.md)
 * [📃 Infromation](infromation/README.md)
   * [🎲 Martingale Strategy](infromation/martingale-strategy.md)
-  * [Page 1](infromation/page-1.md)
-  * [Page 2](infromation/page-2.md)
+  * [💹 How TradeOFF Works](infromation/how-tradeoff-works.md)
+  * [🔛 age 2](infromation/age-2.md)
