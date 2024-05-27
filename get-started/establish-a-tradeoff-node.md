@@ -4,18 +4,18 @@ description: Step-by-step guide on how to create nodes on TradeOFF
 
 # 📶 Establish a TradeOFF Node
 
-## Steps Guide
+## 🧭 Steps Guide
 
 **Step 1:** Open the official link and click "Connect Wallet" in the upper right corner. \
 **Step 2:** Open the menu in the upper right corner, click "Node," and go to the node page. \
 **Step 3:** On the node page, click "Create Node." \
 **Step 4:** Fill in the referrer's address and set the fee.
 
-## Node Status
+## 📶 Node Status
 
 After creating the node, you can view the node status and earnings on the node page. You can also copy and share the link to invite other users to create nodes.
 
-## Node Rights
+## 🎁 Node Rights
 
 #### 💰 Mining Rewards
 
@@ -38,7 +38,7 @@ Node holders benefit from the community bond revenue-sharing mechanism, earning 
 
 Additionally, node holders have a 5% profit-sharing right from community members' Martingale strategy profits. If the node is revoked, this profit is allocated to the ecosystem fund for platform development.
 
-## 📶 Node Price
+## 💵 Node Price
 
 #### 📈 Pre-Sale
 
