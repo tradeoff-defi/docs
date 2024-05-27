@@ -31,7 +31,7 @@ TradeOFF is committed to deploying support on more mainstream public chains to p
 
 TradeOFF may have smart contract risks (e.g., contract code bugs), but will minimize these risks through open-source code and security audits. Investors should also be aware of blockchain systemic risks and personal operational risks.
 
-## Get Started
+## 🔛 Get Started
 
 [#get-started](./#get-started "mention") We've put together some helpful guides for you to get set up with our product quickly and easily.
 
