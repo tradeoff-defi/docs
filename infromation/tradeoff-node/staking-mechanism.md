@@ -1,0 +1,6 @@
+---
+description: taking
+---
+
+# 🖥️ Staking Mechanism
+
