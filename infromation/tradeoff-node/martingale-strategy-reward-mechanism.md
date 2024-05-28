@@ -1,0 +1,2 @@
+# 🎲 Martingale Strategy Reward Mechanism
+

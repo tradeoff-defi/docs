@@ -6,6 +6,7 @@
   * [📳 TradeOFF Node](infromation/tradeoff-node/README.md)
     * [🖥️ Staking Mechanism](infromation/tradeoff-node/staking-mechanism.md)
     * [🪙 Bond Mechanism](infromation/tradeoff-node/bond-mechanism.md)
+    * [🎲 Martingale Strategy Reward Mechanism](infromation/tradeoff-node/martingale-strategy-reward-mechanism.md)
   * [💹 How TradeOFF Works](infromation/how-tradeoff-works.md)
   * [🔋 $TRO Description and Tokenomic（unfinished）](infromation/usdtro-description-and-tokenomic-unfinished.md)
   * [🗺️ TradeOFF Product Roadmap](infromation/tradeoff-product-roadmap.md)
