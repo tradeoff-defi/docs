@@ -1,22 +1,22 @@
 # 🗺️ TradeOFF Product Roadmap
 
+### Period 1: May 2024 - July 2024
 
+* Operate the test network (based on BSC)
+* Run the decentralized Martingale strategy application
+* Distribute rewards based on effective liquidity
+* Build community nodes
+* Apply for token staking
 
-### **📅May 2024: TradeOFF V0.8 Prototype UFO**
+### Period 2: August 2024
 
-* On-chain release of the Auction Guarantee Strategy V1
-* Support for EVM mainstream crypto asset investments
+* Release the mainnet beta version
+* Deploy infrastructure to Layer 2 network
+* Complete POLE consensus and Beta reward drops
 
-### **📅August 2024: V1.0 Proterozoic UFO**
+### Period 3: October 2024
 
-* Digital bond issuance and trading flow
-* Support for cross-chain asset trading strategies
-
-### **📅December 2024: V1.1 Polymorphous UFO**
-
-* Release of other securitized financial derivatives and trading functions
-* Support for lending and collateralization
-
-### **📅June 2025: V2.0 Modular UFO**
-
-* Release of Baas deployment solutions and a programmable securities digital asset development environment
+* Launch the mainnet
+* Generate PATH tokens
+* Launch the ecosystem, supporting TRO trading and buyback mechanism activation
+* Initiate DEX/LEND and other infrastructure Dapps
