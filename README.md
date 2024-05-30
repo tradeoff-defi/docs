@@ -35,6 +35,12 @@ TradeOFF may have smart contract risks (e.g., contract code bugs), but will mini
 
 [#get-started](./#get-started "mention") We've put together some helpful guides for you to get set up with our product quickly and easily.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+## 🔗 Information Overview
+
+Website：https://www.tradeoff.xyz/ \
+Gitbook：https://tradeoff-1.gitbook.io/home/ \
+Gitbook（CN）https://tradeoff-2.gitbook.io/tradeoff/ \
+Twitter：https://x.com/tradeoff\_Fi \
+Telegram：https://t.me/tradeoff\_marketing \
+Martingale DApp：https://dapp.tradeoff.xyz/#/home \
+TradeOFF Node：https://m.tradeoff.xyz/\
