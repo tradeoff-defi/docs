@@ -1,5 +1,5 @@
 ---
-description: Collective liquidity Futures Investment DeFi protocol
+description: A decentralized trading platform for strategies and portfolios
 ---
 
 # 👋 Welcome to TradeOFF
