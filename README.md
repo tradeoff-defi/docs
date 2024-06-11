@@ -42,5 +42,6 @@ Gitbook：https://tradeoff-1.gitbook.io/home/ \
 Gitbook（CN）https://tradeoff-2.gitbook.io/tradeoff/ \
 Twitter：https://x.com/tradeoff\_Fi \
 Telegram：https://t.me/tradeoff\_marketing \
+Medium：https://medium.com/@TradeOFF \
 Martingale DApp：https://dapp.tradeoff.xyz/#/home \
-TradeOFF Node：https://m.tradeoff.xyz/\
+TradeOFF Node：https://m.tradeoff.xyz/
