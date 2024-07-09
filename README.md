@@ -4,7 +4,7 @@ description: A decentralized trading platform for strategies and portfolios
 
 # 👋 Welcome to TradeOFF
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 👀 Overview
 
