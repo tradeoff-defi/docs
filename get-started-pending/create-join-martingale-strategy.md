@@ -1,2 +1,2 @@
-# 🎲 Create/Join Martingale Strategy
+# 📘 Create/Join Martingale Strategy
 

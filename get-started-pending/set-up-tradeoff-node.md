@@ -1,2 +1,2 @@
-# 📍 Set Up TradeOFF Node
+# 📗 Set Up TradeOFF Node
 

@@ -1,2 +1,2 @@
-# 🔄 Node Management for Delegated Liquidity
+# 📙 Node Management for Delegated Liquidity
 

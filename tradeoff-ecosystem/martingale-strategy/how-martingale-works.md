@@ -11,7 +11,7 @@ Previously, we introduced what the Martingale strategy is and its execution cond
 
 ### ⚙️ Operational Logic
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Martingale leverages the power of market aggregation by increasing BTC positions during economic downturns to strictly adhere to the Martingale strategy. This process aims to bring the average purchase price of BTC in the Martingale pool closer to the current market price of BTC, ultimately achieving profitability. Please refer to the diagram below:\
 
@@ -48,41 +48,7 @@ The winner mechanism is used to distribute the Winner Ratio's profit through a p
 
 When the pool reaches the predetermined profit price, it switches to the "End" state. The specific settlement formulas are as follows:
 
-**Pool Profit Calculation:**&#x20;
-
-$$
-Pool Profit=(Input Price−Average Price)×Amount\text{Pool Profit} = (\text{Input Price} - \text{Average Price}) \times \text{Amount}Pool Profit=(Input Price−Average Price)×Amount
-$$
-
-**User Cost Calculation:**&#x20;
-
-$$
-Cost=Input Price×Amount\text{Cost} = \text{Input Price} \times \text{Amount}Cost=Input Price×Amount
-$$
-
-**Creator Profit:**&#x20;
-
-$$
-Creator Profit=Pool Profit×0.05\text{Creator Profit} = \text{Pool Profit} \times 0.05Creator Profit=Pool Profit×0.05
-$$
-
-**Winner Profit:**&#x20;
-
-$$
-Winner Profit=Pool Profit×Winner Ratio×Proportion\text{Winner Profit} = \text{Pool Profit} \times \text{Winner Ratio} \times \text{Proportion}Winner Profit=Pool Profit×Winner Ratio×Proportion
-$$
-
-**User Profit:**&#x20;
-
-$$
-User Profit=Pool Profit×(0.85−Winner Ratio)×Proportion\text{User Profit} = \text{Pool Profit} \times (0.85 - \text{Winner Ratio}) \times \text{Proportion}User Profit=Pool Profit×(0.85−Winner Ratio)×Proportion
-$$
-
-**Withdraw:**&#x20;
-
-$$
-Withdraw=User Profit+Cost\text{Withdraw} = \text{User Profit} + \text{Cost}Withdraw=User Profit+Cost
-$$
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Node and referrer rewards account for 5% of the pool profit, calculated based on the proportion of lower-level earnings.
 
