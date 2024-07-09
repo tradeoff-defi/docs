@@ -47,7 +47,7 @@
 * Withdraw TRO rewards.
 * Withdraw USDT yield sharing rewards.
 
-## Decentralized Asset Management
+## 🪙 Decentralized Asset Management
 
 1. **Decision Autonomy**: Node managers can formulate investment strategies based on their own judgment and market insights, free from the constraints of centralized institutions.
 2. **Operational Transparency**: All fund flows and investment operations are recorded publicly on the blockchain, allowing anyone to verify them in real time, thus eliminating the potential for opaque operations that might occur in centralized institutions.
