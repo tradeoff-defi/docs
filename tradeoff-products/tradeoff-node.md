@@ -47,6 +47,13 @@
 * Withdraw TRO rewards.
 * Withdraw USDT yield sharing rewards.
 
+## Decentralized Asset Management
+
+1. **Decision Autonomy**: Node managers can formulate investment strategies based on their own judgment and market insights, free from the constraints of centralized institutions.
+2. **Operational Transparency**: All fund flows and investment operations are recorded publicly on the blockchain, allowing anyone to verify them in real time, thus eliminating the potential for opaque operations that might occur in centralized institutions.
+3. **Risk Diversification**: Multiple nodes operate simultaneously, effectively avoiding the risk of single points of failure, thereby enhancing the overall stability and security of the system.
+4. **Inclusiveness**: The decentralized structure allows more participants to join the asset management field, breaking down the entry barriers of traditional finance.
+
 ## 🧾 Node Pricing
 
 * The first batch of nodes is publicly sold at $5,000 each, with a total of 300 nodes available for 60 days.
