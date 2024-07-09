@@ -6,42 +6,54 @@ description: A decentralized trading platform for strategies and portfolios
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-## 📖 Overview
+## 👀 Overview
 
-TradeOFF is a decentralized finance (DeFi) protocol based on smart contracts, designed to provide cryptocurrency investors with optimized investment strategies and risk reduction solutions for sustainable profitability. The protocol adopts the renowned **"Martingale"** strategy from financial markets and implements it through an innovative market integration mechanism to continuously reduce the fund pool's capital costs.
+TradeOFF is a decentralized trading platform deployed on the BSC chain, designed to meet users' diverse needs through a variety of ecosystem products. Currently, TradeOFF offers the Martingale strategy, and future products such as Jasper Vault will be launched soon.
 
-## 💻 Operating Mechanism
+## 🎯 Goals and Vision
 
-TradeOFF allows users to initiate their own fund pools to hedge market risks. When the price reaches a preset threshold, other investors can join the fund pool through smart contracts, expanding investment positions and averaging costs without any party incurring additional fees. Through this disintermediated fund aggregation method, TradeOFF offers users an effective investment channel to manage risks and optimize returns.
+TradeOFF aims to create a transparent, fair, and efficient trading environment, allowing users to achieve stable returns by participating in various liquidity pools and strategy products. The platform ensures that all participants' interests are fairly treated through decentralized governance, promoting the sustainable development of the ecosystem.
 
-## 🌟 Key Advantages
+## Core Features
 
-* **Open Profit Protocol:** TradeOFF provides individual investors with flexible and autonomous investment tools, allowing users to create and manage fund pools themselves.
-* **Smart Contract Execution:** All investment strategies are automatically executed through immutable smart contracts, ensuring transparent and trustworthy processes.
-* **Isolation from External Risks:** The core logic of the protocol operates independently, eliminating external influences except for price synchronization (oracle), thus removing liquidation and other derivative risks.
-* **No Additional Fees:** Investors do not need to pay extra fees or management charges, and all profits are fully owned by the individual.
-* **Proactive Risk Control:** TradeOFF offers users dual investment options to proactively manage risks and pursue high returns.
-* **Community-Driven:** The platform encourages investors to share experiences and collaborate, collectively addressing market fluctuations.
+### **🗺️ Diverse Ecosystem Products:**
 
-## 🌍 Future Outlook
+* **Martingale Strategy**: A live product offering trading opportunities based on the Martingale strategy.
+* **Jasper Vault**: An upcoming product designed for beginner DeFi options traders and perpetual traders.
 
-TradeOFF is committed to deploying support on more mainstream public chains to provide quality services to investors from different communities. Plans include enhancing contract audits and security tests to ensure the protocol's healthy operation. In summary, TradeOFF will adhere to the principles of fairness, transparency, and decentralization to promote the thriving development of the DeFi ecosystem.
+### **📶 Node System:**
 
-## ❕Risk Disclaimer
+* Users can become nodes by participating in public sales or token staking, earning additional profit shares.
+* Nodes can set different rates, charging fees from delegated liquidity mining and earnings.
+* The ecosystem can incentivize nodes to promote usage through a rewards mechanism.
 
-TradeOFF may have smart contract risks (e.g., contract code bugs), but will minimize these risks through open-source code and security audits. Investors should also be aware of blockchain systemic risks and personal operational risks.
+### **🏆 Rewards Mechanism:**
 
-## 🔛 Get Started
+* The platform releases a certain number of TRO tokens daily, distributing rewards based on the liquidity value of each ecosystem.
+* Users in each ecosystem receive TRO token rewards proportional to their provided liquidity value.
+* Each ecosystem rewards nodes with a portion of growth earnings in various forms.
 
-[#get-started](./#get-started "mention") We've put together some helpful guides for you to get set up with our product quickly and easily.
+## ✨Platform Advantages
 
-## 🔗 Information Overview
+* **Decentralization**: All transactions and operations are automatically executed through smart contracts, ensuring transparency and fairness.
+* **High Returns**: Users can achieve stable and high returns through diverse ecosystem products and liquidity mining mechanisms.
+* **Security and Reliability**: The platform is deployed on BSC and PATH layer 2, utilizing blockchain technology to ensure the security of user assets.
+* **Community-Driven**: Users are encouraged to share experiences and collaborate in the platform community, collectively addressing market fluctuations.
 
-Website：https://www.tradeoff.xyz/ \
-Gitbook：https://tradeoff-1.gitbook.io/home/ \
-Gitbook（CN）https://tradeoff-2.gitbook.io/tradeoff/ \
-Twitter：https://x.com/tradeoff\_Fi \
-Telegram：https://t.me/tradeoff\_marketing \
-Medium：https://medium.com/@TradeOFF \
-Martingale DApp：https://dapp.tradeoff.xyz/#/home \
-TradeOFF Node：https://m.tradeoff.xyz/
+## 💻 Future Development
+
+TradeOFF will transition to PATH layer 2, continually expanding its ecosystem by introducing more innovative products and features to meet users' diverse needs. The platform will optimize and adjust various mechanisms through decentralized governance and community participation, fostering healthy ecosystem development. TradeOFF aims to become a leading platform in the decentralized finance space, offering users a premium trading experience and substantial returns.
+
+## 🚨Risk Disclosure
+
+TradeOFF may pose smart contract risks (contract code bugs), but TradeOFF will minimize these risks through open-source code and security audits. Investors should also be aware of systemic risks in blockchain and personal operational risks.
+
+## 📃 Information
+
+* Official Website: [https://www.tradeoff.xyz/](https://www.tradeoff.xyz/)
+* Gitbook  [https://tradeoff-1.gitbook.io/home/](https://tradeoff-1.gitbook.io/home/)
+* Gitbook (CN) : [https://tradeoff-2.gitbook.io/tradeoff/](https://tradeoff-2.gitbook.io/tradeoff/)
+* Twitter: [https://x.com/tradeoff\_Fi](https://x.com/tradeoff\_Fi)
+* Telegram: [https://t.me/tradeoff\_marketing](https://t.me/tradeoff\_marketing)
+* Martingale DApp: [https://dapp.tradeoff.xyz/#/home](https://dapp.tradeoff.xyz/#/home)
+* TradeOFF Node: [https://m.tradeoff.xyz/](https://m.tradeoff.xyz/)

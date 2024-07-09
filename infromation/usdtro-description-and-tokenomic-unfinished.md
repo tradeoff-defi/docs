@@ -1,3 +1,0 @@
-# 🔋 $TRO Description and Tokenomic（unfinished）
-
-$TRO is the native governance token of the TradeOFF protocol, designed to be the cornerstone of our ecosystem. As a governance token, $TRO grants holders the power to make decisions, guiding the future development of the TradeOFF platform through democratic and decentralized voting processes. This token is crucial for current governance and will play a significant role in shaping future projects. Besides voting rights, $TRO holders can access key features like staking, mining, fee rebates, and many other utility functions, embedding the token into the core experience of TradeOFF.
