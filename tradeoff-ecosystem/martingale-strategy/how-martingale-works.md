@@ -66,7 +66,11 @@ Users can usually withdraw crypto assets at any time in the Martingale protocol.
 
 * Triggered by asset price. When the market price is ≤ the opening price of the last layer, the pool switches to "Open," allowing current pool joining. During the "Open" state, all users except the last layer can withdraw assets, and settlement follows two methods:
   * **Cost Price ≥ Average Price:** Users can withdraw the number of assets they contributed.
-  * **Cost Price < Average Price:** Redeem=Input Price×AmountAverage Price\text{Redeem} = \frac{\text{Input Price} \times \text{Amount\}}{\text{Average Price\}}Redeem=Average PriceInput Price×Amount​
+  * **Cost Price < Average Price:**&#x20;
+
+$$
+Redeem=Input Price×AmountAverage Price\text{Redeem} = \frac{\text{Input Price} \times \text{Amount}}{\text{Average Price}}Redeem=Average PriceInput Price×Amount​
+$$
 
 **📴 "Closed" State:**
 
