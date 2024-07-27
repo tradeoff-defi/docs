@@ -2,7 +2,7 @@
 
 ## 💻 Decentralized Asset Management Process
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 1. **📱 User Participation in Liquidity**:
    * Users delegate their liquidity assets to nodes for mining.
@@ -18,7 +18,7 @@
 
 ## User Delegation Management
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the delegation management page, users can view their assets, position pool, and withdrawable asset status in real-time. Users can withdraw their assets at any time according to the scheduled withdrawal rules.
 
