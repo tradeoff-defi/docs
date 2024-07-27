@@ -4,7 +4,6 @@
 * [📃 TradeOFF Products](tradeoff-products/README.md)
   * [⛏️ Liquidity Mining](tradeoff-products/liquidity-mining.md)
   * [📳 TradeOFF Node](tradeoff-products/tradeoff-node.md)
-  * [⏳ Bond products (pending)](tradeoff-products/bond-products-pending.md)
 * [🌳 TradeOFF Ecosystem](tradeoff-ecosystem/README.md)
   * [🎲 Martingale Strategy](tradeoff-ecosystem/martingale-strategy/README.md)
     * [🕹️ What is Martingale Strategy](tradeoff-ecosystem/martingale-strategy/what-is-martingale-strategy.md)
