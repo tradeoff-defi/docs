@@ -4,7 +4,7 @@ description: A decentralized trading platform for strategies and portfolios
 
 # 👋 Welcome to TradeOFF
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## 👀 Overview
 
@@ -12,7 +12,7 @@ TradeOFF is a decentralized trading platform deployed on the BSC chain, designed
 
 ## 🎯 Goals and Vision
 
-TradeOFF aims to create a transparent, fair, and efficient trading environment, allowing users to achieve stable returns by participating in various liquidity pools and strategy products. The platform ensures that all participants' interests are fairly treated through decentralized governance, promoting the sustainable development of the ecosystem.
+TradeOFF's goal is to establish a transparent, fair and efficient trading environment that enables users to earn a stable income by participating in different liquidity pools and eco-products. Through a decentralized governance mechanism, the platform ensures that the interests of all participants are treated fairly and promotes the sustainable development of the ecosystem.
 
 ## Core Features
 
@@ -23,9 +23,9 @@ TradeOFF aims to create a transparent, fair, and efficient trading environment, 
 
 ### **📶 Node System:**
 
-* Users can become nodes by participating in public sales or token staking, earning additional profit shares.
-* Nodes can set different rates, charging fees from delegated liquidity mining and earnings.
-* The ecosystem can incentivize nodes to promote usage through a rewards mechanism.
+* Users can delegate their liquidity to nodes to help manage their assets.
+* Nodes can set different rates to get a cut of the delegated liquidity mining proceeds and financial management proceeds.
+* The ecology can bribe nodes through a reward mechanism to incentivize nodes to promote the use of the ecology.
 
 ### **🏆 Rewards Mechanism:**
 
