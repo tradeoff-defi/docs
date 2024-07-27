@@ -23,7 +23,7 @@ This process continues until you win, and then you return to the initial bet amo
 
 The Martingale strategy is also widely applied in investment fields, such as with Tesla stocks.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><em>Tesla Stock Price Chart from November 2022 to February 2023</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>Tesla Stock Price Chart from November 2022 to February 2023</em></p></figcaption></figure>
 
 During this period, executing the Martingale strategy would involve increasing investment after losses at the marked points👇:
 

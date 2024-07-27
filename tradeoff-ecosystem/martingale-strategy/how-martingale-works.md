@@ -11,7 +11,7 @@ Previously, we introduced what the Martingale strategy is and its execution cond
 
 ### ⚙️ Operational Logic
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martingale leverages the power of market aggregation by increasing BTC positions during economic downturns to strictly adhere to the Martingale strategy. This process aims to bring the average purchase price of BTC in the Martingale pool closer to the current market price of BTC, ultimately achieving profitability. Please refer to the diagram below:\
 
@@ -33,7 +33,7 @@ The profit is divided into three parts:
 * **Ecosystem Fee:** 10%
 * **Users:** 85%
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🏆 Winner mechanism
 
@@ -48,7 +48,7 @@ The winner mechanism is used to distribute the Winner Ratio's profit through a p
 
 When the pool reaches the predetermined profit price, it switches to the "End" state. The specific settlement formulas are as follows:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Node and referrer rewards account for 5% of the pool profit, calculated based on the proportion of lower-level earnings.
 
