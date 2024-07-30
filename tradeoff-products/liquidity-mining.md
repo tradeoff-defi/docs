@@ -32,7 +32,7 @@ The position pool is a part of liquidity delegation, specifically designed to en
 
 ### Scheduled Withdrawal Rules
 
-* **Scheduled Withdrawal**: When users need to redeem funds, they must first schedule a withdrawal. The scheduled withdrawal locks the corresponding amount at the current share price, but the funds will only become withdrawable if there are sufficient funds in the position pool.
+* **Scheduled Withdrawal**: When users need to redeem their funds, they must first schedule a withdrawal. They can choose to withdraw the principal, the earnings, or the entire amount. However, when opting to withdraw the entire amount, only 100% withdrawal is allowed. The scheduled withdrawal will lock in the corresponding amount based on the current share price, but the funds will only become available for withdrawal when there are sufficient funds in the position pool.
 * **Waiting for Funds to Return to the Position Pool**: If there are not enough funds in the position pool, the user's withdrawal request will be locked until sufficient funds return to the position pool. During this period, nodes may gradually replenish the position pool through low-risk investments to ensure that users' scheduled requests can become withdrawable as soon as possible.
 * **Withdrawal Operation**: Once the scheduled withdrawal amount has sufficient funds in the position pool, users will see this amount in the "withdrawable amount" and can immediately withdraw it. This mechanism ensures that users can safely and flexibly manage their funds at any time.
 
