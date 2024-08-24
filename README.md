@@ -16,7 +16,7 @@ TradeOFF’s decentralized asset management solutions effectively address risk c
 
 TradeOFF aims to become a leader in the decentralized asset management field. We aspire to bring the benefits of decentralized asset management to a broader audience through innovative technology and a community-driven approach. Our vision is to create an unlimited open-end fund (node) management platform, enhancing user engagement and trust in the crypto market, ultimately promoting financial inclusion and economic empowerment.
 
-### 🔑 Key Features
+## 🔑 Key Features
 
 1. **Ecosystem Integration**:
    * **Martingale Strategy**: An upcoming ecosystem application offering trading opportunities based on the Martingale strategy.
